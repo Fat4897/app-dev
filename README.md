@@ -3,8 +3,7 @@ My first repository
 ## MY FAVORITE SERIES
 ### FAST AND FURIOUS
    *An American media franchise centered on a series of action films that are largely concerned with street racing, heists, spies, and family.*
-   
---- 
+
 **Fast and Furious Movies in Chronological Order**
 1. The Fast and the Furious (2001) ...
 2. 2 Fast 2 Furious (2003) ...
